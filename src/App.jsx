@@ -1,4 +1,4 @@
-import SneakerProductPage from './components/SneakerProductPage';
+import SneakerProductPage from './SneakerProductPage';
 
 function App() {
   return <SneakerProductPage />;

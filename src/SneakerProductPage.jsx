@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { ShoppingCart } from 'lucide-react';
 
 const thumbnails = [
-  '/assets/img1.png',
-  '/assets/img2.png',
-  '/assets/img3.png',
-  '/assets/img4.png'
+  '/img1.png',
+  '/img2.png',
+  '/img3.png',
+  '/img4.png'
 ];
 
 export default function SneakerProductPage() {
